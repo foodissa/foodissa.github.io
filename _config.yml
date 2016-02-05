@@ -10,8 +10,8 @@ title: "Melissa's Food Blog! v1.0"
 email: Oconnellmelissa89@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog about Food!
-  Content by <a href="http://foodissa.github.io/about">Melissa OConnell</a>
-  design&development by <a href="http://github.com/wommy" target="_blank">Wommy</a>
+  Content by <a href='http://foodissa.github.io/about'>Melissa OConnell</a>
+  design&development by <a href='http://github.com/wommy' target='_blank'>Wommy</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://foodissa.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
